@@ -1,0 +1,5 @@
+﻿  Task5(LCS).cpp
+  lab4.cpp
+D:\SecondCourse\МАТ.ПРОГРАММИРОВАНИЕ\lab_4\lab4\lab4.cpp(42,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab4.vcxproj -> D:\SecondCourse\МАТ.ПРОГРАММИРОВАНИЕ\lab_4\x64\Debug\lab4.exe
